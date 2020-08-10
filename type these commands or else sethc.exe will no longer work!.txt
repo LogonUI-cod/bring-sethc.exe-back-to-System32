@@ -1,3 +1,3 @@
 Type these commandsin cmd.(make sure cmd is running as administrator.)
-move C:\Users\<Your User>\Downloads\bring-sethc.exe-back-to-system32\sethc.exe C:\Windows\System32
-move C:\Users\<Your User>\Downloads\bring-sethc.exe-back-to-system32\sethc.exe.mui C:\Windows\System32\en-US
+move C:\Users\<Your User>\Downloads\bring-sethc.exe-back-to-system32.zip\sethc.exe C:\Windows\System32
+move C:\Users\<Your User>\Downloads\bring-sethc.exe-back-to-system32.zip\sethc.exe.mui C:\Windows\System32\en-US
